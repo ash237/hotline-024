@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueboxJJ.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dialogueboxJJ0000" x="0" y="0" width="49" height="28" pivotX="0" pivotY="-25" frameX="-600" frameY="-141" frameWidth="1249" frameHeight="311"/>
+	<SubTexture name="dialogueboxJJ0001" x="49" y="0" width="95" height="170" frameX="-577" frameY="-70" frameWidth="1249" frameHeight="311"/>
+	<SubTexture name="dialogueboxJJ0002" x="144" y="0" width="159" height="260" frameX="-545" frameY="-25" frameWidth="1249" frameHeight="311"/>
+	<SubTexture name="dialogueboxJJ0003" x="303" y="0" width="223" height="308" frameX="-513" frameY="-1" frameWidth="1249" frameHeight="311"/>
+	<SubTexture name="dialogueboxJJ0004" x="526" y="0" width="961" height="308" frameX="-144" frameY="-1" frameWidth="1249" frameHeight="311"/>
+	<SubTexture name="dialogueboxJJ0005" x="0" y="308" width="1081" height="305" frameX="-84" frameY="-3" frameWidth="1249" frameHeight="311"/>
+	<SubTexture name="dialogueboxJJ0006" x="0" y="613" width="1125" height="308" frameX="-62" frameY="-1" frameWidth="1249" frameHeight="311"/>
+	<SubTexture name="dialogueboxJJ0007" x="0" y="921" width="1249" height="311"/>
+	<SubTexture name="dialogueboxJJ0008" x="0" y="921" width="1249" height="311"/>
+</TextureAtlas>

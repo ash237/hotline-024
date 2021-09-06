@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pointy.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pointy0000" x="3" y="3" width="284" height="253"/>
+	<SubTexture name="pointy0001" x="290" y="3" width="284" height="253"/>
+	<SubTexture name="pointy0002" x="577" y="3" width="284" height="253"/>
+	<SubTexture name="pointy0003" x="3" y="259" width="284" height="253"/>
+</TextureAtlas>

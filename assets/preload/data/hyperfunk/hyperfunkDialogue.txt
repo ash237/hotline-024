@@ -1,0 +1,31 @@
+nikku:left bf:right
+:1:talk:0.05:1:beep
+:0:talk:0.05:0:uh. hi.
+:0:talk:0.05:0:...
+:1:talk:0.05:0:...
+:0:talk:0.05:0:may i ask, who are you?
+:1:talk:0.05:0:beep bop
+:0:talk:0.05:0:well that's really cool and everything but...
+:0:talk:0.05:0:could you please go somewhere else?
+:1:talk:0.05:0: bap? bop?
+:0:talk:0.05:0:look, it's reallyyy hard to explain, but \nplease, just leave.
+:0:talk:0.05:0:this is where i hide.
+:1:talk:0.05:0:...
+:1:talk:0.05:0:*ahem*
+:1:talk:0.05:0: hide from who?
+:0:talk:0.05:0:it doesn't matter, just respect my wishes.
+:1:talk:0.05:0:i mean, sure, but i came here to do... stuff, \ny'know
+:1:talk:0.05:0:but since you ruined my plans we have to \nresolve this
+:1:talk:0.05:0:in a way or another
+:0:talk:0.05:0:man, i don't like to fight
+:1:talk:0.05:0:i'm not talking about fighting, let's just have\n a rap battle
+:0:talk:0.05:0:i weirdly expected that.
+:0:talk:0.05:0:i'm not really sure.
+:1:talk:0.05:0:you seem to have a lot of style, come onnn
+:0:talk:0.05:0:...
+:0:talk:0.05:0:ugh, alright
+:0:talk:0.05:0:i don't have a singing voice so let me just \ncopy yours.
+:1:talk:0.05:0:wait, what?
+
+
+

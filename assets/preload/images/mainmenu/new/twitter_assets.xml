@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="twitter_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="twitter basic0000" x="0" y="0" width="457" height="146" pivotX="0" pivotY="0"/>
+	<SubTexture name="twitter basic0001" x="0" y="0" width="457" height="146"/>
+	<SubTexture name="twitter basic0002" x="0" y="0" width="457" height="146"/>
+	<SubTexture name="twitter basic0003" x="457" y="0" width="457" height="146"/>
+	<SubTexture name="twitter basic0004" x="457" y="0" width="457" height="146"/>
+	<SubTexture name="twitter basic0005" x="457" y="0" width="457" height="146"/>
+	<SubTexture name="twitter basic0006" x="0" y="146" width="457" height="146"/>
+	<SubTexture name="twitter basic0007" x="0" y="146" width="457" height="146"/>
+	<SubTexture name="twitter basic0008" x="0" y="146" width="457" height="146"/>
+	<SubTexture name="twitter white0000" x="457" y="146" width="493" height="158" pivotX="0" pivotY="0" frameX="0" frameY="0" frameWidth="493" frameHeight="160"/>
+	<SubTexture name="twitter white0001" x="0" y="304" width="492" height="158" frameX="0" frameY="0" frameWidth="493" frameHeight="160"/>
+	<SubTexture name="twitter white0002" x="492" y="304" width="491" height="159" frameX="0" frameY="-1" frameWidth="493" frameHeight="160"/>
+</TextureAtlas>
