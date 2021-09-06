@@ -5151,7 +5151,7 @@
 				],
 				"bpm": 138,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
@@ -5195,7 +5195,7 @@
 				],
 				"bpm": 138,
 				"changeBPM": false,
-				"mustHitSection": true
+				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
@@ -7149,6 +7149,15 @@
 						0
 					]
 				],
+				"bpm": 138,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
 				"bpm": 138,
 				"changeBPM": false,
 				"mustHitSection": true
